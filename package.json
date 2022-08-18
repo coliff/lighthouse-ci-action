@@ -11,7 +11,7 @@
     "test": "prettier -c src/** package.json README.md && tsc -p ."
   },
   "dependencies": {
-    "@actions/core": "^1.2.0",
+    "@actions/core": "^1.9.1",
     "@lhci/cli": "0.3.0-alpha.0"
   },
   "devDependencies": {
